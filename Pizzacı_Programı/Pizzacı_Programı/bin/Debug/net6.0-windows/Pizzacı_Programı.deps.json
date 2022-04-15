@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Pizzacı_Programı/1.0.0": {
+        "runtime": {
+          "Pizzacı_Programı.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pizzacı_Programı/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
